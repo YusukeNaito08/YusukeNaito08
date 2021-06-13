@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？YusukeNaito08 = anuraghazra＆show_icons = true＆theme = radius）
+[！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？username = Yusukenaito08）]（https://github.com/anuraghazra/github-readme-stats）
